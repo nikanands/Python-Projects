@@ -4,4 +4,5 @@ This repo is of python projects suggested by different websites. This is to help
 ## Suggested by Geeksforgeeks
 
 ### Beginner Projects
-1. [Guessing Game](https://github.com/nikanands/Python-Projects/blob/main/guessing_game.py)
+1. [Guessing Number](https://github.com/nikanands/Python-Projects/blob/main/guessing_game.py)
+2. [Guessing Word](https://github.com/nikanands/Python-Projects/blob/main/guessing_word.py)
